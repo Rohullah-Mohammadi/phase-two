@@ -6,8 +6,8 @@ Most of the crucial tasks you will do as a developer will involve using a text-b
 
 * ### Command Line
 
-  - [ ] [Navigating the File System](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation) (9 exercises)
-  - [ ] [Viewing and Changing the File System](https://www.codecademy.com/courses/learn-the-command-line/lessons/command-line-manipulation) (10 exercises)
+  - [x] [Navigating the File System](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation) (9 exercises)
+  - [x] [Viewing and Changing the File System](https://www.codecademy.com/courses/learn-the-command-line/lessons/command-line-manipulation) (10 exercises)
 
 * ### Git
 
