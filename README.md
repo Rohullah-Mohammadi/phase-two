@@ -6,7 +6,7 @@ This is a practical, project-based course on Git, modern Javascript as well as r
 
 | Week | Date | Tasks |
 | --- | --- | --- |
-| 0 | Pre-work | [Read Course Info](./week-zero/about.md), [Complete Command Line, Git, Github](./week-zero) 
+| 0 | Pre-work | [Read Course Info](./week-zero/about.md), [x] [Complete Command Line, Git, Github](./week-zero) 
 
 ## Front-end
 
