@@ -11,14 +11,14 @@ Most of the crucial tasks you will do as a developer will involve using a text-b
 
 * ### Git
 
-  - [ ] [Basic Git Workflow](https://www.codecademy.com/courses/learn-git/lessons/git-workflow) (9 exercises)
-  - [ ] [Git Branching](https://www.codecademy.com/courses/learn-git/lessons/git-branching) (10 exercises)
-  - [ ] [Git Teamwork](https://www.codecademy.com/courses/learn-git/lessons/git-teamwork) (8 exercises)
+  - [x] [Basic Git Workflow](https://www.codecademy.com/courses/learn-git/lessons/git-workflow) (9 exercises)
+  - [x] [Git Branching](https://www.codecademy.com/courses/learn-git/lessons/git-branching) (10 exercises)
+  - [x] [Git Teamwork](https://www.codecademy.com/courses/learn-git/lessons/git-teamwork) (8 exercises)
 
 * ### Github
 
-  - [ ] [Git and Github in Plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)
-  - [ ] [Github: Hello World](https://guides.github.com/activities/hello-world)
+  - [x] [Git and Github in Plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)
+  - [x] [Github: Hello World](https://guides.github.com/activities/hello-world)
 
 ## :octocat:  **Optional Resources**
 
